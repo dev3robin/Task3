@@ -107,7 +107,7 @@ function App() {
   }, []);
   return (
     <div className='max-w-[1440px] mx-auto '>
-      <main className='bg-[var(--background)] text-[var(--text)]'>
+      <main className='bg-[var(--background)] text-[var(--text)] overflow-hidden'>
         <nav ref={navRef} className='px-5 z-100 py-3 flex items-center justify-between border-b-2 border-gray-600 rounded-b-2xl bg-transparent backdrop-blur-2xl top-0 w-full'>
           <h1 className='text-2xl font-extrabold'>{t("nav.intro")}</h1>
           <div className='flex'>
@@ -206,7 +206,7 @@ function App() {
         <section className='px-5'>
           <div className='flex flex-col md:flex-row gap-5'>
             <header className='text-2xl font-bold flex text-center items-center'>{t("section3.qoute1")}</header>
-            <div className='flex flex-col w-[1200px]' >
+            <div className='flex flex-col w-[1100px]' >
               <div className='flex'>
                 <img src="./images/football.jpg" className='w-[16%] md:w-[400px] max-h-[200px]' alt="" />
                 <img src="./images/cricket.jpg"  className='w-[18%] md:w-[400px] max-h-[200px]' alt="" />
