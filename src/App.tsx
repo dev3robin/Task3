@@ -7,9 +7,7 @@ import gsap from "gsap";
 import { Swiper, SwiperSlide } from 'swiper/react';
 import { Navigation, Pagination, Autoplay } from 'swiper/modules';
 import ArrowRightAltIcon from '@mui/icons-material/ArrowRightAlt';
-import 'swiper/css';
-import 'swiper/css/navigation';
-import 'swiper/css/pagination';
+
 
 function App() {
   const { t, i18n}=useTranslation();
