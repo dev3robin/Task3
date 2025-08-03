@@ -1,0 +1,30 @@
+@import "tailwindcss";
+
+
+:root {
+  --background: white;
+  --text: #333333;
+
+  --spanC:rgb(177, 247, 177);
+  --btnHC:rgb(243, 228, 255);
+}
+
+[data-theme='dark'] {
+  --background: #1f1e20;
+  --text: #e0e0e0;
+  --spanC:rgb(54, 56, 55);
+  --btnHC:rgb(70, 45, 87);
+}
+
+ body{
+  background-color: var(--background);
+  color: var(--text);
+  font-family: "Libertinus Sans", sans-serif;
+
+ }
+
+.rajdhani-semibold {
+  font-family: "Rajdhani", sans-serif;
+  font-weight: 600;
+  font-style: normal;
+}

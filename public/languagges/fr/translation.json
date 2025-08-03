@@ -1,0 +1,27 @@
+{
+  "nav": {
+    "intro": "Intro.moi",
+    "Themespan": "Mode thème",
+    "Lang": "Changer la langue"
+  },
+  "section0": {
+    "p": "Je suis un développeur web passionné, spécialisé dans la création de sites et d'applications réactifs et conviviaux à l'aide de technologies modernes comme HTML, CSS, JavaScript, React et Tailwind CSS. J'aime transformer des problèmes complexes en expériences web propres, efficaces et interactives. Avec une solide base en développement frontend et un intérêt croissant pour le backend et l'intégration d'API, je m'engage à écrire du code maintenable et à apprendre continuellement pour rester à jour dans ce domaine en constante évolution.",
+    "btn": "Voir le portfolio"
+  },
+  "section1": {
+    "myIntro": "Bonjour, je suis Md Rabin Molla, un humain curieux de la technologie.",
+    "BulletLine": "Mon intérêt pour la technologie",
+    "p": "Depuis mon jeune âge, j’ai été fasciné par le fonctionnement des choses — en particulier tout ce qui touche à la technologie. Ce qui a commencé par une simple curiosité pour comprendre le fonctionnement de mon téléphone ou de mon ordinateur est devenu une passion profonde pour apprendre à créer et améliorer la technologie. J’aime explorer de nouveaux outils, expérimenter du code et résoudre des problèmes avec créativité. Que ce soit pour créer une simple application web ou suivre les dernières tendances tech, je trouve de l’énergie et de l’excitation dans ce domaine en constante évolution."
+  },
+  "section2": {
+    "qoute1": "“Le développement frontend est là où la créativité rencontre la logique.”",
+    "qoute2": "“Le développement frontend est un art numérique — chaque pixel, chaque ligne de code est un coup de pinceau sur la toile du web.”",
+    "bulletline": "Mon parcours en développement web",
+    "p": "En tant qu'amateur d'art et de mathématiques, le développement frontend a toujours été ma passion. Mon amour pour l'art et la logique m'a naturellement mené vers ce domaine. Durant mes études, je devais apprendre un langage de programmation — j'ai commencé avec Python. Puis, un ami m’a conseillé de me lancer dans le développement frontend. J’ai commencé à créer un clone de Google Form sans connaître grand-chose à CSS ou HTML. J’ai appris en cours de route grâce à Google, des vidéos, et surtout avec l’aide précieuse de ChatGPT."
+  },
+  "section3": {
+    "qoute1": "“Le sport vous enseigne le caractère, les règles, comment gagner et perdre — il vous enseigne la vie.”",
+    "bulletline": "Mes passe-temps",
+    "p": "Le cyclisme et le cricket ne sont pas que des passe-temps pour moi — ce sont un mode de vie. Le vélo me donne une sensation de liberté, clarifie mon esprit, et me fait me sentir vivant. Le cricket, lui, m’apprend la patience, le travail d’équipe et la passion. Que ce soit le vent sur la route ou le son d’un bon coup, ces deux sports me motivent chaque jour à rester actif et concentré."
+  }
+}

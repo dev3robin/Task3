@@ -1,0 +1,27 @@
+{
+  "nav": {
+    "intro": "Intro.me",
+    "Themespan": "Theme mode",
+    "Lang": "Change Lang"
+  },
+  "section0":{
+    "p":"I’m a passionate Web Developer focused on building responsive, user-friendly websites and applications using modern technologies like HTML, CSS, JavaScript, React, and Tailwind CSS. I enjoy turning complex problems into clean, efficient, and interactive web experiences. With a strong foundation in frontend development and a growing interest in backend and API integration, I’m committed to writing maintainable code and continuously learning to stay up-to-date in this fast-evolving field.",
+    "btn":"View Portfolio"
+  },
+  "section1": {
+    "myIntro": "Hi, Myself Md Rabin Molla a curious human being about technology",
+    "BulletLine": "My Interest in Technology",
+    "p": "From a young age, I've been fascinated by how things work—especially anything involving technology. What started as curiosity about how my phone or computer operated soon grew into a deep passion for learning how to build and improve technology myself. I enjoy exploring new tools, experimenting with code, and solving problems through creative thinking. Whether it's developing a simple web app, understanding how data flows through a system, or staying up-to-date with the latest tech trends, I find energy and excitement in the world of technology. It’s more than just a field—it's a continuous journey of learning, innovation, and endless possibilities."
+  },
+  "section2": {
+    "qoute1": "“Frontend development is where creativity meets logic.”",
+    "qoute2": "“Frontend development is digital art — every pixel, every line of code, a brushstroke on the canvas of the web.”",
+    "bulletline": "My Journey in Webdevelopment",
+    "p": "Being an art and mathematics lover, front-end development is always a favourite to me. The love for art and mathematics brought me to the world of front-end development where I found art with logic. In my academic journey, I was supposed to learn a programming language and I found Python to start with. Then my friend suggested me to do something with programming and I selected front-end development. The learning process was interesting — I was making a Google Form clone but I was unaware of many CSS or HTML elements. I learned them when needed. I Googled them or watched videos to learn. But ChatGPT is my true friend as it helped me to learn everything easily."
+  },
+  "section3": {
+    "qoute1": "“Sports teach you character, it teaches you to play by the rules, it teaches you to win and lose — it teaches you about life.”",
+    "bulletline": "My Hobbies",
+    "p": "Cycling and cricket aren’t just hobbies for me — they’re a way of life. Cycling gives me freedom, clears my mind, and makes me feel alive with every mile. Cricket, on the other hand, teaches me patience, teamwork, and passion. Whether it’s the rush of wind on an open road or the sound of a clean shot on the pitch, both sports push me to stay active, focused, and motivated every day.”"
+  }
+}
