@@ -123,7 +123,7 @@ function App() {
                     <div className='bg-green-600 h-[6px] w-[6px] rounded-xs'></div>
                   </div>
                 </div>
-                <img src="../public/chevron.svg" alt="" />
+                <img src="/images/chevron.svg" alt="" />
               </button>
               <span className='absolute text-xs bg-[var(--btnHC)] text-nowrap p-1 rounded opacity-0 group-hover:opacity-100 transition-opacity duration-150'>{t("nav.Themespan")}</span>
             </div>
@@ -131,8 +131,8 @@ function App() {
               <button 
                 onClick={handleLangOpen}
                 className='flex items-center gap-.5 p-1 pl-2 rounded hover:bg-gray-200'>
-                  <img src="../public/globe .svg" alt="" />
-                  <img src="../public/chevron.svg" alt="" />
+                  <img src="/images/globe.svg" alt="" />
+                  <img src="/images/chevron.svg"  alt="" />
               </button>
               <ul className={`absolute bg-[var(--btnHC)] z-100 px-2 py-1 right-1 rounded top-6 ${langOpen?"":"hidden"}`}>
                 {lang.map((lng,index)=>
